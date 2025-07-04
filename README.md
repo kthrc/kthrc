@@ -2,7 +2,6 @@
 
 ### 🦾 Skills
 
----
 
 ### 🧑‍💻 Languages
 
@@ -14,7 +13,6 @@
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
 
----
 
 ### ⚒️ Frameworks & Libraries
 
@@ -23,14 +21,14 @@
 ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
 
----
+
 
 ### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/oracle-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
 
----
+
 
 ### 🧠 IDEs
 
@@ -40,7 +38,7 @@
 ![Google Colab](https://img.shields.io/badge/colab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white)
 
----
+
 
 ### 🛠️ Tools & Communication
 
