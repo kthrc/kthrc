@@ -10,9 +10,12 @@
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-000000.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-239120.svg?&style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-2C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white)
+
 
 
 
@@ -22,6 +25,8 @@
 ![Vue](https://img.shields.io/badge/vue-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
+
 
 
 
